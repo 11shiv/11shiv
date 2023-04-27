@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv kumar .
 - I am currently pursuing a Bachelor of Technology in Mechanical Engineering from National Institute of Technology Puducherry 
-- 🌱 I’m currently learning soft computing & image processing ...
+<!-- - 🌱 I’m currently learning soft computing & image processing ... -->
 - My portfolio website - https://11shiv.github.io/  ...
 
 
